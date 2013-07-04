@@ -1,0 +1,73 @@
+#multi.improved-default {
+	background: #262626;
+}
+
+.cm-s-improved-default {
+  line-height: 1.3em;
+}
+
+.cm-s-improved-default {
+	background: #262626;
+	color: #fcaf3e;
+	text-shadow: 0 -1px 1px #262626;
+}
+
+.cm-s-improved-default div.CodeMirror-selected {
+	background: #33322B !important;
+}
+
+.cm-s-improved-default .CodeMirror-cursor {
+	border-left: 1px solid white !important;
+}
+
+.cm-s-improved-default .CodeMirror-lines {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+div.CodeMirror .cm-s-improved-default span.CodeMirror-matchingbracket {
+	color: #7EFC7E;
+}
+
+.cm-s-improved-default .CodeMirror-gutter {
+	background: #262626;
+	border-right: 1px solid #aaa;
+	padding-right: 3px;
+	min-width: 2.5em;
+}
+
+.cm-s-improved-default .CodeMirror-gutter-text {
+	color: #777;
+}
+
+.cm-s-improved-default .CodeMirror-matchingbracket {
+	color: #599eff;
+}
+
+.cm-s-improved-default .CodeMirror-nonmatchingbracket {
+	color: #9d1e15;
+}
+
+.cm-s-improved-default span.cm-keyword 		{ color: #599eff; }
+.cm-s-improved-default span.cm-atom 			{ color: #C2B470; }
+.cm-s-improved-default span.cm-number 		{ color: #fce94f; }
+.cm-s-improved-default span.cm-def 			{ color: #fcaf3e; }
+.cm-s-improved-default span.cm-variable 		{ color: white; }
+.cm-s-improved-default span.cm-variable-2 	{ color: #669199; }
+.cm-s-improved-default span.cm-variable-3 	{ color: #fcaf3e; }
+.cm-s-improved-default span.cm-property 		{ color: #fcaf3e; }
+.cm-s-improved-default span.cm-operator 		{ color: #fcaf3e; }
+.cm-s-improved-default span.cm-comment 		{ color: #666; }
+.cm-s-improved-default span.cm-string 		{ color: #8ae234; }
+.cm-s-improved-default span.cm-string-2		{ color: #8ae234; }
+.cm-s-improved-default span.cm-meta 			{ color: #738C73; }
+.cm-s-improved-default span.cm-error 			{ color: #9d1e15; }
+.cm-s-improved-default span.cm-qualifier 		{ color: #555; }
+.cm-s-improved-default span.cm-builtin 		{ color: #ff9e59; }
+.cm-s-improved-default span.cm-bracket 		{ color: #D9BF8C; }
+.cm-s-improved-default span.cm-tag 			{ color: #669199; }
+.cm-s-improved-default span.cm-attribute 		{ color: #00c; }
+.cm-s-improved-default span.cm-header 		{ color: #a0a; }
+.cm-s-improved-default span.cm-quote 			{ color: #090; }
+.cm-s-improved-default span.cm-hr 			{ color: #999; }
+.cm-s-improved-default span.cm-link 			{ color: #00c; }
