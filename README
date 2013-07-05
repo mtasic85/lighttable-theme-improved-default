@@ -1,4 +1,4 @@
-lighttable-theme-improved-default
-=================================
+Install
+=======
 
-Improved "default" theme for Light Table
+Copy "improved-default.css" into "~/.lighttable/css/themes/".
